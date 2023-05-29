@@ -1,0 +1,6 @@
+data/com.jamesdury.todo.desktop.in
+data/com.jamesdury.todo.appdata.xml.in
+data/com.jamesdury.todo.gschema.xml
+src/main.js
+src/window.js
+src/window.ui
